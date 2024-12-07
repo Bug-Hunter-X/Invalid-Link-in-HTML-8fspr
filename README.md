@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to invalid links. The bug occurs when an anchor tag's href attribute points to an ID that does not exist within the HTML document.  The solution involves ensuring that the ID referenced by the link actually exists within the document or correcting the link to point to a valid location.
